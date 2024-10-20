@@ -13,6 +13,8 @@
 
 <p align="left"> <a href="https://x.com/BellaouiOualid" target="blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&amp;logoColor=white" alt="X"><img src="https://img.shields.io/twitter/follow/bellaouioualid?logo=X&style=for-the-badge" alt="bellaouioualid" /></a> </p>
 
+<h1>🙋‍♂️ About ME:</h1>
+
 - 😄 Pronouns: **Oualid**.
 
 - 🌱 I’m currently working learning and improving **my PHP skills to master Symfony**.
@@ -30,7 +32,7 @@
 - 🚀 Soon, I'll be diving into Symfony to build more robust and scalable web applications after mastering PHP **Insha'Allah**.
 
 
-<h2>🌐 Socials:</h2>
+<h1>🌐 Socials:</h1>
 <hr>
 <div >
 <h3 align="left">Connect with me:</h3>
@@ -41,12 +43,10 @@
 <a href="https://instagram.com/oualid_bellaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oualid_bellaoui" height="30" width="40" /></a>
 <a href="https://discord.gg/Shinigami#9202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shinigami#9202" height="30" width="40" /></a>
 </p>
-
-
-
-
 </div>
+
 </br>
+
 <h1>💻 Tech Stack:</h1>
 <hr>
 <img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" alt="cv" align="right" width="400">
