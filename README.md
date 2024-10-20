@@ -1,11 +1,12 @@
 <div align="center" width="100%">
-  <img src="https://i.pinimg.com/originals/85/66/22/8566227add4552e94c8a9faaa0edaa4a.gif" alt="cv" width="100%" height="400">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=36&pause=1100&center=true&width=450&lines=Hello+World+!+!+!" alt="Typing SVG" />
+  </a>
 </div>
+
 
 <h1 align="center">Hi 👋, I'm @Oualid-20</h1>
 <h3 align="center">A passionate Backend developer from Morocco **MA**</h3>
-
-
   
 <img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="cv" align="right" width="400">
 
