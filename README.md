@@ -6,11 +6,12 @@
 
 
 <h1 align="center">Hi 👋, I'm @Oualid-20</h1>
-<h3 align="center">A passionate Backend developer from Morocco **MA**</h3>
+<h3 align="center">A passionate Softwa Developer from Morocco **MA**</h3>
   
 <img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="cv" align="right" width="400">
 
-<p><a href="https://visitcount.itsvg.in" target="_blank">
+<p>
+  <a href="https://visitcount.itsvg.in" target="_blank">
   <img src="https://visitcount.itsvg.in/api?id=Oualid-20&amp;icon=6&amp;color=1" alt=""></a>
 </p>
 
@@ -38,7 +39,6 @@
 - ⚡ Fun fact **I love learning new programming languages and once spent an entire week learning a new language just for fun!**
 
 - 🚀 Soon, I'll be diving into Symfony to build more robust and scalable web applications after mastering PHP **Insha'Allah**.
-
 
 <h1>🌐 Socials:</h1>
 <hr>
