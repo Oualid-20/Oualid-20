@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm @Oualid-20</h1>
-<h3 align="center">A passionate Softwa Developer from Morocco **MA**</h3>
+<h3 align="center">A passionate Software Developer from Morocco **MA**</h3>
   
 <img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="cv" align="right" width="400">
 
@@ -26,7 +26,7 @@
 
 - 😄 Pronouns: **Oualid**.
 
-- 🌱 I’m currently working learning and improving **my PHP skills to master Symfony**.
+- 🌱 I’m currently working on learning and improving **my PHP skills to master Symfony**.
 
 - 👀 I’m interested in the **IT World**.
 
