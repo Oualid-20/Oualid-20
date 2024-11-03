@@ -22,7 +22,9 @@
   </a>
 </p>
 
+
 <h1>🙋‍♂️ About ME:</h1>
+
 
 - 😄 Pronouns: **Oualid**.
 
@@ -41,6 +43,7 @@
 - 🚀 Soon, I'll be diving into Symfony to build more robust and scalable web applications after mastering PHP **Insha'Allah**.
 
 <h1>🌐 Socials:</h1>
+
 <hr>
 <div >
   <h3 align="left">Connect with me:</h3>
@@ -56,6 +59,7 @@
 </br>
 
 <h1>💻 Tech Stack:</h1>
+
 <hr>
 <img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" alt="cv" align="right" width="400">
 <h3 align="left">Languages and Tools:</h3>
