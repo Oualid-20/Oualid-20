@@ -45,6 +45,7 @@
 <h1>🌐 Socials:</h1>
 
 <hr>
+
 <div >
   <h3 align="left">Connect with me: </h3>
   <p align="left">
