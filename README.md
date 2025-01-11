@@ -23,7 +23,7 @@
 </p>
 
 
-<h1>🙋‍♂️ About ME:</h1>
+<h1>🙋‍♂️ About Me:</h1>
 
 
 - 😄 Pronouns: **Oualid**.
