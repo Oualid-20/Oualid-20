@@ -15,6 +15,7 @@
   <img src="https://visitcount.itsvg.in/api?id=Oualid-20&amp;icon=6&amp;color=1" alt=""></a>
 </p>
 
+
 <p align="left"> 
   <a href="https://x.com/BellaouiOualid" target="blank">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&amp;logoColor=white" alt="X">
@@ -68,7 +69,7 @@
 <h1>💻 Tech Stack:</h1>
 
 <hr>
-<img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" alt="cv" align="right" width="450">
+<img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" alt="cv" align="right" width="400">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
