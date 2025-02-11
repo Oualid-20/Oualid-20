@@ -74,19 +74,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-### Outils Frontend
+### Frontend Tools
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=9" alt="Frontend Tools">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=twig" alt="Frontend Tools">
 </div>
 
-### Outils Backend
+### Backend Tools
 <img src="https://skillicons.dev/icons?i=php,symfony,cs,dotnet,cpp,py&perline=9" alt="Backend Tools">
 
-### Bases de Données
+### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=9" alt="Databases">
 
-### Outils et Environnements
+### Tools and Environments
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://skillicons.dev/icons?i=git,matlab,docker,anaconda,visualstudio&perline=9" alt="ToolsEnvironments" style="margin-right: 10px;">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi" alt="ToolsEnvironments">
