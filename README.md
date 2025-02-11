@@ -68,9 +68,30 @@
 <h1>💻 Tech Stack:</h1>
 
 <hr>
-<img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" alt="cv" align="right" width="400">
+<img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" alt="cv" align="right" width="500">
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+  
+### Outils Frontend
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&perline=9" alt="Frontend Tools">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=twig" alt="Frontend Tools">
+</div>
+
+### Outils Backend
+<img src="https://skillicons.dev/icons?i=php,symfony,cs,dotnet,cpp,py&perline=9" alt="Backend Tools">
+
+### Bases de Données
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=9" alt="Databases">
+
+### Outils et Environnements
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://skillicons.dev/icons?i=git,matlab,docker,anaconda,visualstudio&perline=9" alt="ToolsEnvironments" style="margin-right: 10px;">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi" alt="ToolsEnvironments">
+</div>
+
+
+  <!--
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -90,7 +111,9 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva"> 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">  
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&amp;logo=Trello&amp;logoColor=white" alt="Trello"> 
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache">  
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache">
+  -->
+
 </p>
 
 <h1>📊 GitHub Stats:</h1>
@@ -98,7 +121,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oualid-20&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="oualid-20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oualid-20&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="oualid-20" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oualid-20&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="oualid-20" />
+</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oualid-20&theme=tokyonight&hide_border=false" alt="oualid-20" />
